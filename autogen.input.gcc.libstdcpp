@@ -1,0 +1,10 @@
+--with-lang=en-US fr
+--enable-lto
+--enable-mergelibs
+--disable-skia
+--enable-ld=gold
+--enable-optimized=yes
+--with-myspell-dicts
+--with-external-tar=/home/arnaud/dev/tar_lo
+--with-package-format=rpm
+--enable-epm
